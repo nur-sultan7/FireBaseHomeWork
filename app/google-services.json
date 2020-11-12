@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103337869725",
+    "firebase_url": "https://fir-womework.firebaseio.com",
+    "project_id": "fir-womework",
+    "storage_bucket": "fir-womework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103337869725:android:ea19493f2363cd9d9f2f74",
+        "android_client_info": {
+          "package_name": "com.nursultan.firebasehomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103337869725-seskqcu6lcnk3ukhhc2mrd6l1uqgciec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXvAp-X18p-m9Ev6MGkJSVFUF_aGowHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103337869725-seskqcu6lcnk3ukhhc2mrd6l1uqgciec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

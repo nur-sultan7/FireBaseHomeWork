@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseHomeWork</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="age_label">Age</string>
+    <string name="sex_label">Sex</string>
+    <string name="save_label">Save</string>
+</resources>
